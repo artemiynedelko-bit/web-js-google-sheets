@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+button {
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+#error {
+    color: red;
+}
